@@ -7,6 +7,8 @@
 | 3                   	|  - 	| 8                  	|  + 	| 
 | 4                    	|  + 	| 9          	|  + 	|
 | 5                   	|  - 	| 10                  	|  + 	|
+
+
 \
 \
 \
@@ -668,5 +670,6 @@
 \
 \
 ## End
-
+Lướt mỏi tay chưa, rồi thì thoát đi cho đỡ tức.
+Không có hướng dẫn gì đâu. Search google đầy ra
 
